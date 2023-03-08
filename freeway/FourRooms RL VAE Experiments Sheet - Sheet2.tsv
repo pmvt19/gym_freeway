@@ -1,0 +1,2 @@
+Experiment Number	Network Type	Network Architecture	Loss Function	Activation Function	Epochs	Batch Size	Optimizer	Learning Rate	Likelihood	Likelihood Adjustment	Max Total Steps	Max Steps
+1	Linear	[4, 8, 16, 32, 8]	MSE	ReLU	100	256	Adam	0.001	loss	negative	5000	500
